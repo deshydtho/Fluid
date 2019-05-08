@@ -13,7 +13,7 @@
 <p>Email:</p>
 <input type="text" name="email">
 <p>Phone Number</p>
-<input type="text" name="phone#">
+<input type="text" name="phonenum">
 <input type="submit" value="Create Account">
 </form>
 

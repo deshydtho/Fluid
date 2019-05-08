@@ -8,7 +8,7 @@ $fluidemail=$_POST['email'];
 $fluidfirstname=$_POST['firstname'];
 $fluidlastname=$_POST['lastname'];
 $fluidemail=$_POST['email'];
-$fluidphone=$_POST['phone#'];
+$fluidphone=$_POST['phonenum'];
 
 $sql="INSERT INTO fluid.user
 (userid,
@@ -17,7 +17,7 @@ dob,
 firstname,
 lastname,
 email,
-phone#,
+phonenum,
 datejoin,
 subend)
 VALUES
