@@ -2,7 +2,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/png" href="img/logo-512x512.png">
     <title>Fluid - Music streaming for everyone</title>
 </head>
@@ -20,4 +20,5 @@
         <p>Password</p><input type="password" name="pass">
         <input type="submit" value="login">
     </form>
+</body>
 </html>
