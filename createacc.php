@@ -3,7 +3,7 @@
 <p>User ID:</p>
 <input type="text" name="userid">
 <p>Password:</p>
-<input type="password" name="pass">
+<input type="password" name="password">
 <p>Birthday:</p>
 <input type="text" name="dob">
 <p>First Name:</p>
